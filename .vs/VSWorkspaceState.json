@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AnimalMatchingGame",
+    "\\AnimalMatchingGame\\AnimalMatchingGame"
   ],
+  "SelectedNode": "\\AnimalMatchingGame\\AnimalMatchingGame\\App.xaml.cs",
   "PreviewInSolutionExplorer": false
 }
